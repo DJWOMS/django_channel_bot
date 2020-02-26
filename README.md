@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://djangochannel.com" target="_blank" rel="noopener noreferrer">
-        <img width="100" src="docs/_static/logo.png" title="djangochannel">
+        <img width="100" src="static/logo.png" title="djangochannel">
     </a>
 </p>
 
